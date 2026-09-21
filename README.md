@@ -1,1 +1,0 @@
-# Logic-Gate-Based-Binary-to-Gray-Code-Converter
